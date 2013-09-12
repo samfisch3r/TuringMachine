@@ -21,6 +21,7 @@ following machines are implemented:
 - factorial
 
 Example:
+
 	java -jar TuringMachine.jar multiplication
 
 
@@ -29,4 +30,3 @@ Authors
 - Marc-André Bühler
 - Marco Buess
 - Samuel Reutimann
-- 
