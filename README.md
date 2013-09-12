@@ -4,6 +4,13 @@
 Simple Turing machine written in Java.
 
 
+Build
+-----
+To build and test this project we use maven:
+
+    mvn install
+
+
 How to run
 ----------
 
